@@ -8,13 +8,8 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
 A Wokwi simulation of a 2-to-1 Multiplexer
-
 ## How to test
-
 Flip the three switches corresponding to the inputs of the multiplexer, and if the LED lights up where the truth table says then it works.
-
 ## External hardware
-
 None
