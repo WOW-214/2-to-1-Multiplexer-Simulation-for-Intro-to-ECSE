@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A Wokwi simulation of a 2-to-1 Multiplexer
 
 ## How to test
 
-Explain how to use your project
+Flip the three switches corresponding to the inputs of the multiplexer, and if the LED lights up where the truth table says then it works.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
